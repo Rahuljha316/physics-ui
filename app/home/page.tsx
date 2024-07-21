@@ -1,3 +1,4 @@
+'use client'
 import Carousal from "./carousal";
 import NavBar from "./navbar";
 
